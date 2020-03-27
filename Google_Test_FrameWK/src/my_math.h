@@ -1,0 +1,3 @@
+
+
+double sqr(double v);
